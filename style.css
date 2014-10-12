@@ -1,11 +1,12 @@
 #infinite-list {
-	overflow: auto;
   	width: 30%;
-  	height:800px;
-	margin-left: auto;
-	margin-right: auto;
+  	height:600px;
+  	overflow: auto;
 	overflow-y: scroll;
  	overflow-x: hidden;
+	margin-left: auto;
+	margin-right: auto;
+
 }
 
 hr {
