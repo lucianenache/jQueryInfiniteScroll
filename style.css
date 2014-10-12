@@ -1,0 +1,15 @@
+#infinite-list {
+	overflow: auto;
+  	width: 30%;
+  	height:800px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow-y: scroll;
+ 	overflow-x: hidden;
+}
+
+hr {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
