@@ -7,6 +7,8 @@ infinite scroll library - Parses the response object and displays the data insid
 
 ### demo: http://lucianenache.github.io/jQueryInfiniteScroll/
 
+### dependency ```~jquery-1.6.1 ```
+
 ### usage:
 
 
